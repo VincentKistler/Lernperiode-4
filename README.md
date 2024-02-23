@@ -27,12 +27,15 @@ Heute habe ich mich mit den verschiedenen Möglichkeiten auseinander gesetzt. Am
 - [ ] Werte der emojis bestimmen
 - [ ] Eine Währung erfinden
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+
+
 | Testfall-Nummer | Ausgangslage (Given)                              | Eingabe (When)                                      | Ausgabe (Then)                                                                   | Erfüllt? |
 | --------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
 | 1               | Interface ist geöffnet.                            | Benutzer betrachtet das Emoji-Kauf-/Handels-Interface. | Alle verfügbaren Emojis werden korrekt angezeigt.                              |          |
 | 2               | Der Benutzer besitzt einige Emojis.                | Das Inventar-Interface wird geöffnet.                | Das Inventar zeigt die korrekten Emojis an, die der Benutzer besitzt.           |          |
 | 3               | Ein Emoji ist ausgewählt.                          | Benutzer betrachtet den Wert des ausgewählten Emojis. | Der angezeigte Wert entspricht dem tatsächlichen Wert des Emojis.               |          |
 | 4               | Eine Transaktion wird durchgeführt.                 | Die neue Währung wird verwendet.                     | Die Transaktion wird erfolgreich abgeschlossen, und die neue Währung wird verwendet. |          |
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
