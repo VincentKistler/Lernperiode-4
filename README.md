@@ -11,6 +11,9 @@ Ich denke mir ich werde einen Discord bot machen, da mir das sehr wahrscheinlich
 Ein geeignetes Projekt wäre einen Discord bot, der viele verschiedene commands ausführen kann.
 
 
+
+
+
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
