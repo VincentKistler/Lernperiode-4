@@ -19,16 +19,20 @@ Ein geeignetes Projekt wäre einen Discord bot, der viele verschiedene commands 
 
 
 20.2.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich mit den verschiedenen Möglichkeiten auseinander gesetzt. Am Ende bin ich zum entschluss gekommen, dass Mathieu und ich einen Discot bot programmieren wollen, dieser Bot soll etwa wie ein bazzar händler sein. Dies sollte laut unseren Recherchen möglich sein. Auch habe ich mit Herr. Colic abgemacht, dass falls noch Zeit ist und ich lust habe das runner game noch versuche fertig zustellen. (65)
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+- [ ] interface mit emojis die der händler verkauft und kaufen möchte.
+- [ ] interface wo die emojis die man besitzt angezeigt wird.
+- [ ] Werte der emojis bestimmen
+- [ ] Eine Währung erfinden
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+| Testfall-Nummer | Ausgangslage (Given)                              | Eingabe (When)                                      | Ausgabe (Then)                                                                   | Erfüllt? |
+| --------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
+| 1               | Interface ist geöffnet.                            | Benutzer betrachtet das Emoji-Kauf-/Handels-Interface. | Alle verfügbaren Emojis werden korrekt angezeigt.                              |          |
+| 2               | Der Benutzer besitzt einige Emojis.                | Das Inventar-Interface wird geöffnet.                | Das Inventar zeigt die korrekten Emojis an, die der Benutzer besitzt.           |          |
+| 3               | Ein Emoji ist ausgewählt.                          | Benutzer betrachtet den Wert des ausgewählten Emojis. | Der angezeigte Wert entspricht dem tatsächlichen Wert des Emojis.               |          |
+| 4               | Eine Transaktion wird durchgeführt.                 | Die neue Währung wird verwendet.                     | Die Transaktion wird erfolgreich abgeschlossen, und die neue Währung wird verwendet. |          |
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
