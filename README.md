@@ -9,6 +9,10 @@ Am ende der Lernperiode 3 habe ich mir vorgenommen weniger hilfe von ChatGPT und
 Ich denke mir ich werde einen Discord bot machen, da mir das sehr wahrscheinlich am meisten spass macht.
 
 Ein geeignetes Projekt wäre einen Discord bot, der viele verschiedene commands ausführen kann
+#
+#
+
+#
 
 
 
