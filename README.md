@@ -4,8 +4,13 @@
 ## Grob-Plannung
 Da wir seit der letzten Lernperiode keinen weiteren Modul Noten bekommen haben, bin ich stehts ganz zufrieden mit meinen Noten, dennoch denke ich, ich könnte mich in SQL-scripten verbessern.
 
-Neu: Was möchten Sie Neues lernen?
-Was wäre ein geeignetes Projekt für diese LP4?
+Am ende der Lernperiode 3 habe ich mir vorgenommen weniger hilfe von ChatGPT und Freunden zu nutzen
+
+Ich denke mir ich werde einen Discord bot machen, da mir das sehr wahrscheinlich am meisten spass macht.
+
+Ein geeignetes Projekt wäre einen Discord bot, der viele verschiedene commands ausführen kann.
+
+
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
