@@ -33,9 +33,18 @@ Heute habe ich mich mit den verschiedenen Möglichkeiten auseinander gesetzt. Am
 heute am 01.03.2024 habe ich die Dokumentation für das Modul 187 die wir jeden Sonntag abgeben müssen fertiggestellt, dazu habe ich auch den Arbeitsauftrag 187_704 für die Dokumentation abgeschlossen. Für das Modul 106 konnte ich auch die beiden Aufträge fertigstellen, was auch eine gute übung was, denn ich bin immernoch nicht zu 100% sicher mit SQL. (56 Wörter)
 
 
-
-
 08.03.2024
+- [ ] Den Auftrag 187_0715 fertigstellen (egronomie) Dokumentieren
+- [ ] Auftrag 187_0714 noch beenden. Ebenfalls Dokumentieren
+- [ ] Auftrag 106_2405 beenden und Dokumentieren.
+- [ ] Auftrag 106_2406 beenden und ebenfalls Dokumentieren
+
+
+Heute am 08.03.2024 habe ich alle meine Lernpakete erfolgreich absolvieren können. Alle Aufträge wurden sauber bearbeitet und in die jeweilige Dokumentation des Moduls rein dokumentiert. Der Auftrag mit der egronomie war besonders spannend, da wird dort unsere Sitzhaltung beurteilen mussten (an unserem eigene Tisch/Stuhl). Mein Fazit dabei lautete das meine Haltung sehr schlecht ist und ich öfters aufrecht sitzen muss und vieles mehr.(63)
+
+
+
+15.03.2024
 - [ ] interface mit emojis die der händler verkauft und kaufen möchte.
 - [ ] interface wo die emojis die man besitzt angezeigt wird.
 - [ ] Werte der emojis bestimmen
