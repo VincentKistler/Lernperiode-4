@@ -51,6 +51,18 @@ Heute am 08.03.2024 habe ich alle meine Lernpakete erfolgreich absolvieren könn
 - [ ] Eine Währung erfinden
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
+Heute haben wir uns mit dem Discord Bot beschäftigt, diesen haben wir zunächst in ein server eingeladen und dafür auch schon einen code programmiert, wo man in der theorie ein Hangman spielen kann. Leider gab es komplikationen und wir konnten den code nicht in den Discordbot einfügen, Das Hangman game war zunächst ein prototyp da wir noch nicht richtig wussten wie wir unsere Idee verwirklichen sollen, dazu war es eine gute Übung um zu schauen wie alles funktioniert. (78)
+
+
+22.03.2024
+
+- [ ] Code in unseren Discord bot einfügen
+- [ ] Unseren Hangman code ausprobieren und schauen wie er funktioniert
+- [ ] Unsere eigentliche Idee probieren zu verwirklichen
+- [ ] Dokumentation für Modul 187 beenden.
+
+
+
 
 | Testfall-Nummer | Ausgangslage (Given)                              | Eingabe (When)                                      | Ausgabe (Then)                                                                   | Erfüllt? |
 | --------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
