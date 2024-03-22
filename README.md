@@ -71,8 +71,15 @@ Heute haben wir uns mit dem Discord Bot beschäftigt, diesen haben wir zunächst
 | 3               | Ein Emoji ist ausgewählt.                          | Benutzer betrachtet den Wert des ausgewählten Emojis. | Der angezeigte Wert entspricht dem tatsächlichen Wert des Emojis.               |          |
 | 4               | Eine Transaktion wird durchgeführt.                 | Die neue Währung wird verwendet.                     | Die Transaktion wird erfolgreich abgeschlossen, und die neue Währung wird verwendet. |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute am 22.03.2024 habe ich mit Matheiu wieder an unserem Discord bot gearbeitet, den Code den wir vom Tutorial genommen haben hat leider nicht funktioniert, sowie einige andere Sachen. Auch ist uns erst im nachhinein eingefallen das der Token den wir verwendet haben der Token vom Bot von Mathieu war und das dies so oder so nicht funktionieren könnte, da der Bot über den laptop von Mathieu leuft. (68 Wörter)
 
+
+Arbeitspakete für 5.04.2024
+- [ ] einen extrem einfachen Bot programmieren und diesen zuerst mal zum laufen bringen, also etwas wie schick mir ein emoji
+- [ ] falls der Discord bot funktionieren sollte, kleinere Features mehr hinzufügen, wie vorprogrammierte Konversationen.
+- [ ] Wenn dies auch Funktioniert das Ping-Pong spiel, das von Herr Colic vorgeschlagen worden ist, hinzufügen.
+      
+ 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
