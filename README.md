@@ -83,4 +83,11 @@ Arbeitspakete für 5.04.2024
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser Lernperiode habe ich mit Mathieu zusammen gearbeitet, wir wollten zusammen einen Discord bot programmieren. Am Anfang hatten wir Schwierigkeiten damit Discord.Net mit C-sharp zu verbinden. Danach hatten wir viele Schwirigkeiten da wir nicht ganz Verstanden haben das wir den Discord-Bot token brauchen, später hat sich auch Herausgestellt, das wir auch die Chat-ID dafür benötigen. Am Ende haben wir einen Discord-Bot der all 1 Minute einen extremen Flachwitz hinein schreibt und auch auf Nachrichten von anderen reagieren kann.
+
+Unsere Zusammenarbeit hatte höhen und tiefen. Manchmal war es fast eher eine Einzelarbeit und manchmal haben wir alles zusammen gemacht. Im Endefekt kann ich sagen das wir ein Mittelding davon benötigen, Im Team sollte man oft kommunizieren und sich absprechen wer was macht und wie es aussieht, es sollten jedoch zwischen durch auch einzelarbeiten geben, da ich vielleicht in etwas besser bin als mein Kollege oder anders rum.
+
+
+Als Verbesserungsvorschlag möchte ich mir definitiv vornehmen meine Teamarbeit zu verbessern. Und mich mehr mit meinen Kollegen unterhalten und mich mit ihnen auch mehr absprechen.
+
+In der nächsten Lernperiode möchte ich auch wieder mit Mathieu zusammen arbeiten und möchte mit ihm eine Website mit c sharp erstellen. Die Website soll etwa so wie ein Marketplace sein.
